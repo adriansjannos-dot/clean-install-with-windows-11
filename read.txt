@@ -1,0 +1,13 @@
+hey GUYS.
+
+today l wil do setp by setp how to clean install Windows.
+
+ok so use the latest Version of the iso today in Windows 11 if its some problems and donat work user lower Version of a iso file.
+
+ok and use Rufus to crate a bootable usb stick With the iso file you download.
+
+and then the last step is drag the answer file on usb stick and do a clean install trough the usb.
+
+l hope this help you end let me now what l am should do Next.
+
+pls sub.
